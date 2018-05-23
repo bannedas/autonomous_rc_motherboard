@@ -1,4 +1,4 @@
-update=Mon 14 May 2018 10:12:05 AM CEST
+update=Wed 23 May 2018 11:07:42 AM CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -37,7 +37,7 @@ SpiceUseNetNumbers=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=../DON-LIB;../FS-LIB;../MM-LIB;../PAUL-LIB
+LibDir=../DON-LIB;../FS-LIB;../MM-LIB;../PAUL-LIB;../kicad-footprints
 [eeschema/libraries]
 LibName1=autonomous_rc_pcb-rescue
 LibName2=power
