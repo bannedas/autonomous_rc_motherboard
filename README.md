@@ -19,6 +19,7 @@ Remake of Benjamin Vedder made project https://github.com/vedderb/rise_sdvp
 	- External antenna
 -RTK-GNSS
 	- UBLOX NEO M8P module
+	- External antenna
 
 - 40V to 12V 3A power
 - 12V to 5V 1A power
@@ -32,3 +33,5 @@ Remake of Benjamin Vedder made project https://github.com/vedderb/rise_sdvp
 - Status LED for everything
 
 ```
+
+![alt text](autonomous_rc_pcb.png "PCB")
